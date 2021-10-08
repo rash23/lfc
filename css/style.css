@@ -48,7 +48,7 @@ body {
     height: 80px;
 }
 
-.header__logo {
+.header__logo a {
     font-family: Tangerine;
     font-size: 60px;
     color: white;
