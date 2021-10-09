@@ -327,4 +327,18 @@ tr, td {
         margin: 0px 0px 20px 0px;
         ;
     }
+    .header__logo a {
+        font-size: 40px;
+    }
+}
+
+@media (max-width:910px) {
+    .header__logo a {
+        font-size: 50px;
+    }
+    .header__list {
+        padding: 5px;
+        margin: 5px;
+        font-size: 15px;
+    }
 }
